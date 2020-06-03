@@ -13,34 +13,36 @@ ___
 
 #### Non-Fiction
 
-* How To Be An Antiracist by Ibram X. Kendi
-* Between the World and Me by T-Nehisi Coates
-* The Fire Next Time by James Baldwin
-* Why I'm No Longer Talking To White People About Race by Reni Eddo-Lodge
-* Freedom Is A Constant Struggle by Audre Lorde
-* Heavy: An American Memoir by Kiese Laymon
-* Just Mercy by Bryan Stevenson
-* The Warmth of Other Suns by Isabel Wilkerson
-* The Color of Money by Mehrsa Baradaran
-* On the Other Side of Freedom: The Case for Hope by DeRay McKesson
+* <a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1">__How To Be An Antiracist__</a> by Ibram X. Kendi
+* <a href="https://ta-nehisicoates.com/books/between-the-world-and-me/">__Between the World and Me__</a> by T-Nehisi Coates
+* <a href="https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X">__The Fire Next Time__</a> by James Baldwin
+* <a href="https://www.amazon.com/Longer-Talking-White-People-About-ebook/dp/B06WWPX2YF">__Why I'm No Longer Talking To White People About Race__</a> by Reni Eddo-Lodge
+* <a href="https://www.akpress.org/freedom-is-a-constant-struggle.html">__Freedom Is A Constant Struggle__</a> by Angela Davis
+* <a href="https://www.amazon.com/Your-Silence-Will-Not-Protect/dp/0995716226">__Your Silence Will Not Protect You__</a> by Audre Lorde
+* <a href="https://www.kieselaymon.com/heavy">__Heavy: An American Memoir__</a> by Kiese Laymon
+* <a href="https://justmercy.eji.org/responsive/#book">__Just Mercy__</a> by Bryan Stevenson
+* <a href="http://isabelwilkerson.com/">__The Warmth of Other Suns__</a> by Isabel Wilkerson
+* <a href="https://www.amazon.com/Color-Money-Black-Racial-Wealth/dp/0674970950">__The Color of Money__</a> by Mehrsa Baradaran
+* <a href="https://www.amazon.com/Other-Side-Freedom-Case-Hope/dp/0525560327">__On the Other Side of Freedom: The Case for Hope__</a> by DeRay McKesson
 
 #### Fiction
 
-* The Invisible Man by Ralph Ellison
-* If Beale Street Could Talk by James Baldwin
-* The Bluest Eye by Toni Morrison
-* Their Eyes Were Watching God by Zora Neale Hurston
-* Americanah by Chimamanda Ngozi Adichie
-* An American Marriage by Tayari Jones
-* Such A Fun Age by Kiley Reid
-* The Underground Railroad: A Novel by Colson Whitehead
+
+* <a href="https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764">__The Invisible Man__</a> by Ralph Ellison
+* <a href="https://www.amazon.com/If-Beale-Street-Could-Talk/dp/0307275930">__If Beale Street Could Talk__</a> by James Baldwin
+* <a href="https://www.amazon.com/Bluest-Eye-Vintage-International/dp/0307278441">__The Bluest Eye__</a> by Toni Morrison
+* <a href="https://www.zoranealehurston.com/books/their-eyes-were-watching-god/">__Their Eyes Were Watching God__</a> by Zora Neale Hurston
+* <a href="https://www.chimamanda.com/book/americanah/">__Americanah__</a> by Chimamanda Ngozi Adichie
+* <a href="http://www.tayarijones.com/books/an-american-marriage/">__An American Marriage__</a> by Tayari Jones
+* <a href="https://www.amazon.com/Such-Fun-Age-Kiley-Reid/dp/052554190X">__Such A Fun Age__</a> by Kiley Reid
+* <a href="https://www.nationalbook.org/books/the-underground-railroad/">__The Underground Railroad: A Novel__</a> by Colson Whitehead
 
 #### Young Adults
 
-* The Hate U Give by Angie Thomas
-* Dear Martin by Nic Stone
-* Black Enough edited by Ibi Zoboi
-* Stamped: Racism, Antiracism, and You by Jason Reynolds and Ibram X. Kendi
+* <a href="https://angiethomas.com/the-hate-u-give">__The Hate U Give__</a> by Angie Thomas
+* <a href="https://www.getunderlined.com/books/534050/dear-martin-by-nic-stone/">__Dear Martin__</a> by Nic Stone
+* <a href="http://ibizoboi.net/books/black-enough">__Black Enough__</a> edited by Ibi Zoboi
+* <a href="https://www.lbyr.com/titles/jason-reynolds/stamped-racism-antiracism-and-you/9780316453707/">__Stamped: Racism, Antiracism, and You__</a> by Jason Reynolds and Ibram X. Kendi
 
 ___
 
@@ -76,19 +78,12 @@ ___
 
 #### Podcasts
 
-* Pod Save The People
-* Code Sw!tch
-* 1619
-* About Race with Reni Eddo-Lodge
-* The Diversity Gap
-* Intersectionality Matters with Kimberlé Crenshaw
-
-#### Black Artists
-
-* Kendrick Lamar
-* Nipsey Hussle
-* J. Cole
-* Lizzo
+* <a href="https://crooked.com/podcast-series/pod-save-the-people/">Pod Save The People</a>
+* <a href="https://www.npr.org/podcasts/510312/codeswitch">Code Switch</a>
+* <a href="https://www.nytimes.com/column/1619-project">1619</a>
+* <a href="https://www.aboutracepodcast.com/">About Race with Reni Eddo-Lodge</a>
+* <a href="https://www.thediversitygap.com/podcast-1">The Diversity Gap</a>
+* <a href="https://aapf.org/podcast">Intersectionality Matters with Kimberlé Crenshaw</a>
 
 ___
 
@@ -99,7 +94,6 @@ ___
 #### Follow/Share on Social Media (Twitter/Instagram)
 
 * Campaign Zero (<a href="https://www.instagram.com/campaignzero/">@campaignzero</a>)
-
 * Color of Change (<a href="https://twitter.com/ColorOfChange">@colorofchange</a>)
 * National Association for the Advancement of Colored People (<a href="https://twitter.com/NAACP">@NAACP</a>)
 * Black Lives Matter (<a href="https://twitter.com/Blklivesmatter">@Blklivesmatter</a>)
@@ -119,20 +113,20 @@ ___
 
 * Brittany Packnett Cunningham (<a href="https://twitter.com/MsPackyetti">@MsPackyetti</a>)
 * DeRay McKesson (<a href="https://twitter.com/deray">@deray</a>)
-* Clint Smith (@ClintSmithIII)
+* Clint Smith (<a href="https://twitter.com/ClintSmithIII">@ClintSmithIII</a>)
 * Sam Sinyangwe (<a href="https://twitter.com/samswey">@samswey</a>)
-* Alicia Garza (@aliciagarza)
-* Patrisse Cullors (@OsopePatrisse)
-* Opal Tometi (@opalayo)
-* Johnetta Elzie (@Nettaaaaaaaa)
-* Treva Lindsey (@divafeminist)
-* Ibram Kendi (DrIbram)
-* Derecka Purnell (@dereckapurnell)
-* Heather McGhee (@hmcghee)
-* Bernice King (@BerniceKing)
-* William Barber (@RevDrBarber)
-* Bree Newsome Bass (@BreeNewsome)
-* Nikole Hannah Jones (@nhannahjones)
+* Alicia Garza (<a href="https://twitter.com/aliciagarza">@aliciagarza</a>)
+* Patrisse Cullors (<a href="https://twitter.com/OsopePatrisse">@OsopePatrisse</a>)
+* Opal Tometi (<a href="https://twitter.com/opalayo">@opalayo</a>)
+* Johnetta Elzie (<a href="https://twitter.com/Nettaaaaaaaa">@Nettaaaaaaaa</a>)
+* Treva Lindsey (<a href="https://twitter.com/divafeminist">@divafeminist</a>)
+* Ibram Kendi (<a href="https://twitter.com/DrIbram">@DrIbram</a>)
+* Derecka Purnell (<a href="https://twitter.com/dereckapurnell">@dereckapurnell</a>)
+* Heather McGhee (<a href="https://twitter.com/hmcghee">@hmcghee</a>)
+* Bernice King (<a href="https://twitter.com/BerniceKing">@BerniceKing</a>)
+* William Barber (<a href="https://twitter.com/RevDrBarber">@RevDrBarber</a>)
+* Bree Newsome Bass (<a href="https://twitter.com/BreeNewsome">@BreeNewsome</a>)
+* Nikole Hannah Jones (<a href="https://twitter.com/nhannahjones">@nhannahjones</a>)
 
 ___
 
