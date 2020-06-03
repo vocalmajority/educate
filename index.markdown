@@ -13,7 +13,7 @@ ___
 
 #### Non-Fiction
 
-* <a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1">__How To Be An Antiracist__</a> by Ibram X. Kendi
+* <a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1">How To Be An Antiracist</a> by Ibram X. Kendi
 * <a href="https://ta-nehisicoates.com/books/between-the-world-and-me/">__Between the World and Me__</a> by T-Nehisi Coates
 * <a href="https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X">__The Fire Next Time__</a> by James Baldwin
 * <a href="https://www.amazon.com/Longer-Talking-White-People-About-ebook/dp/B06WWPX2YF">__Why I'm No Longer Talking To White People About Race__</a> by Reni Eddo-Lodge
