@@ -3,13 +3,13 @@ layout: default
 title: "Ally-ship Through Education"
 ---
 
-## Educational Materials for Becoming an Anti-Racist
+# Educational Materials for Becoming an Anti-Racist
 
 *The list of resources included below is not comprehensive, but hopefully can act as a starting point. For anybody looking to add additional resources that are not already included, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
 
 ___
 
-### Read
+## Read
 
 #### Non-Fiction
 
@@ -44,7 +44,7 @@ ___
 
 ___
 
-### Watch
+## Watch
 
 #### Netflix
 
@@ -72,7 +72,7 @@ ___
 
 ___
 
-### Listen
+## Listen
 
 #### Podcasts
 
@@ -92,34 +92,35 @@ ___
 
 ___
 
-### Amplify
+## Amplify
 
-#### <a href="https://wa-hans.github.io/donate/">Donate></a>
+#### <a href="https://wa-hans.github.io/donate/">Donate</a>
 
-#### Follow/Share on Social Media
+#### Follow/Share on Social Media (Twitter/Instagram)
 
-* Campaign Zero (@campaignzero)
-* Color of Change (@color of change)
-* National Association for the Advancement of Colored People (@NAACP)
-* Black Lives Matter (@Blklivesmatter)
-* National Bail Fund Network (@bailfundnetwork)
-* Know Your Rights Camp (@yourrightscamp)
-* Black Voters Matter (@BlackVotersMtr)
-* African American Policy Forum (@AAPolicyForum)
-* Colorlines (@colorlines)
-* Advancement Project (@adv_project)
-* National Urban League (@NatUrbanLeague)
-* MediaJustice (@mediajustice)
-* Ella Baker Center (@ellabakercenter)
-* Race Forward (@RaceForward)
-* Policy Link (@policylink)
+* Campaign Zero (<a href="https://www.instagram.com/campaignzero/">@campaignzero</a>)
+
+* Color of Change (<a href="https://twitter.com/ColorOfChange">@colorofchange</a>)
+* National Association for the Advancement of Colored People (<a href="https://twitter.com/NAACP">@NAACP</a>)
+* Black Lives Matter (<a href="https://twitter.com/Blklivesmatter">@Blklivesmatter</a>)
+* National Bail Fund Network (<a href="https://twitter.com/bailfundnetwork">@bailfundnetwork</a>)
+* Know Your Rights Camp (<a href="https://twitter.com/@yourrightscamp">@yourrightscamp</a>)
+* Black Voters Matter (<a href="https://twitter.com/@BlackVotersMtr">@BlackVotersMtr</a>)
+* African American Policy Forum (<a href="https://twitter.com/@AAPolicyForum">@AAPolicyForum</a>)
+* Colorlines (<a href="https://twitter.com/@colorlines">@colorlines</a>)
+* Advancement Project (<a href="https://twitter.com/@adv_project">@adv_project</a>)
+* National Urban League (<a href="https://twitter.com/@NatUrbanLeague">@NatUrbanLeague</a>)
+* MediaJustice (<a href="https://twitter.com/@mediajustice">@mediajustice</a>)
+* Ella Baker Center (<a href="https://twitter.com/@ellabakercenter">@ellabakercenter</a>)
+* Race Forward (<a href="https://twitter.com/@RaceForward">@RaceForward</a>)
+* Policy Link (<a href="https://twitter.com/@policylink">@policylink</a>)
 
 #### Learn on Twitter
 
-* Brittany Packnett Cunningham (@MsPackyetti)
-* DeRay McKesson (@deray)
+* Brittany Packnett Cunningham (<a href="https://twitter.com/MsPackyetti">@MsPackyetti</a>)
+* DeRay McKesson (<a href="https://twitter.com/deray">@deray</a>)
 * Clint Smith (@ClintSmithIII)
-* Sam Sinyangwe (@samswey)
+* Sam Sinyangwe (<a href="https://twitter.com/samswey">@samswey</a>)
 * Alicia Garza (@aliciagarza)
 * Patrisse Cullors (@OsopePatrisse)
 * Opal Tometi (@opalayo)
@@ -135,7 +136,7 @@ ___
 
 ___
 
-### Act
+## Act
 
 * Call out racial biases and injustices when you see them committed by others.
 * Practice intellecutal honesty and write down moments when you find yourself subscribing to or recognizing a racial bias.
