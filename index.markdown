@@ -154,9 +154,9 @@ ___
 * Register to __vote__.
 * Check in on Black friends, family, colleagues, and acquaintances.
 * Educate yourself. Feel free to start with any of the resources listed above.
-* Call out racial biases and injustices when you see them committed by others. Be an ally at the dinner table, bar, workplace. If you hear a racist conversation, correct the speaker and initiate a discussion about why this is wrong.
+* If you have kids, talk to them about racial injustice. <a href="http://www.raceconscious.org/">This</a> and <a href="https://www.yesmagazine.org/democracy/2017/07/10/7-reminders-for-white-parents-talking-to-their-kids-about-police-killing-black-people/">this</a> are two good resources to get started.
+* Call out racial biases and injustices when you see them committed by others. Be an ally at the dinner table, bar, workplace. If you hear a racist conversation, correct the speaker and initiate a discussion about why this is wrong. <a href="https://boldconversations.org/">Here is a toolkit for</a> developed by Showing Up for Racial Justice and Color of Change that has tips for calling people into conversations in a manner that doesn’t prompt defensiveness.
 * Practice intellecutal honesty and write down moments when you find yourself subscribing to or recognizing a racial bias.
 * Be an advocate for mental health. Be wawre of how what you are sharing publicly can affect others.
 * Create a long-term strategy: how you will you be an ally for the rest of your life? 
-* Choose action over inaction. Attend protests if you can; donate if you can; share your voice.
-
+* Choose action over inaction. Actively listen and amplify the voices of the Black community; attend protests if you can; donate if you can; share your voice.
