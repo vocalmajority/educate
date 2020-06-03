@@ -24,9 +24,14 @@ ___
 * <a href="http://isabelwilkerson.com/">__The Warmth of Other Suns__</a> by Isabel Wilkerson
 * <a href="https://www.amazon.com/Color-Money-Black-Racial-Wealth/dp/0674970950">__The Color of Money__</a> by Mehrsa Baradaran
 * <a href="https://www.amazon.com/Other-Side-Freedom-Case-Hope/dp/0525560327">__On the Other Side of Freedom: The Case for Hope__</a> by DeRay McKesson
+* <a href="https://www.amazon.com/Black-Feminist-Thought-Consciousness-Empowerment/dp/0415964725">__Black Feminist Thought__</a> by Patricia Hill Collins
+* <a href="https://www.meandwhitesupremacybook.com/">__Me and White Supremacy__</a> by Layla F. Saad
+* <a href="https://www.amazon.com/Know-Why-Caged-Bird-Sings/dp/0345514408">__I Know Why The Caged Bird Sings__</a> by Maya Angelou
+* <a href="https://robindiangelo.com/publications/">__White Fragility: Why It's So Hard for White People to Talk About Racism__</a> by Robin DiAngelo, PhD
+* <a href="https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776">__So You Want to Talk About Race__</a> by Ijeoma Oluo
+* <a href="https://www.epi.org/publication/the-color-of-law-a-forgotten-history-of-how-our-government-segregated-america/">__The Color of Law__</a> by Richard Rothstein
 
 #### Fiction
-
 
 * <a href="https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764">__The Invisible Man__</a> by Ralph Ellison
 * <a href="https://www.amazon.com/If-Beale-Street-Could-Talk/dp/0307275930">__If Beale Street Could Talk__</a> by James Baldwin
@@ -84,6 +89,9 @@ ___
 * <a href="https://www.aboutracepodcast.com/">About Race with Reni Eddo-Lodge</a>
 * <a href="https://www.thediversitygap.com/podcast-1">The Diversity Gap</a>
 * <a href="https://aapf.org/podcast">Intersectionality Matters with Kimberlé Crenshaw</a>
+* <a href="https://www.sceneonradio.org/seeing-white/">Seeing White with John Biewen and Dr. Chenjerai Kumanyika</a>
+* <a href="https://www.raceforward.org/media/podcast/momentum-race-forward-podcast">Momentum: A Race Forward Podcast</a>
+* <a href="https://civilrights.org/podforthecause/">Pod For The Cause</a>
 
 ___
 
@@ -132,6 +140,12 @@ ___
 
 ## Act
 
-* Call out racial biases and injustices when you see them committed by others.
+* Register to __vote__.
+* Check in on Black friends, family, colleagues, and acquaintances.
+* Educate yourself. Feel free to start with any of the resources listed above.
+* Call out racial biases and injustices when you see them committed by others. Be an ally at the dinner table, bar, workplace. If you hear a racist conversation, correct the speaker and initiate a discussion about why this is wrong.
 * Practice intellecutal honesty and write down moments when you find yourself subscribing to or recognizing a racial bias.
+* Be an advocate for mental health. Be wawre of how what you are sharing publicly can affect others.
+* Create a long-term strategy: how you will you be an ally for the rest of your life? 
+* Choose action over inaction. Attend protests if you can; donate if you can; share your voice.
 
