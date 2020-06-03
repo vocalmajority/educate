@@ -51,31 +51,42 @@ ___
 
 ___
 
-## Watch
+## Watch (Movies & TV Series)
 
 #### Netflix
 
 * 13th
-* When They See Us
-* Dear While People
 * American Son
-* See You Yesterday
+* Dear While People
 * LA 92
+* See You Yesterday
+* Strong Island
+* When They See Us
 
 #### Hulu
 
 * If Beale Street Could Talk
-* The Hate U Give
 * Hidden Figures
+* The Hate U Give
+* Whose Streets?
+
+### YouTube
+
+* Stay Woke: The Black Lives Matter Movement
 
 #### To Rent
 
-* Selma
-* Just Mercy
+* Clemency
 * Fruitvale Station
-* Stranger Fruit
 * I Am Not Your Negro
+* Just Mercy
+* Mandela: Long Walk to Freedom
+* Queen & Slim
+* Selma
+* Stranger Fruit
 * The Black Panthers: Vanguard of the Revolution
+* The Black Power Mixtape 1967-1975
+* The Trials of Muhammad Ali
 
 ___
 
