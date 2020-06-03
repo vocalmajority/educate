@@ -14,40 +14,40 @@ ___
 #### Non-Fiction
 
 * <a href="https://www.ibramxkendi.com/how-to-be-an-antiracist-1">How To Be An Antiracist</a> by Ibram X. Kendi
-* <a href="https://ta-nehisicoates.com/books/between-the-world-and-me/">__Between the World and Me__</a> by T-Nehisi Coates
-* <a href="https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X">__The Fire Next Time__</a> by James Baldwin
-* <a href="https://www.amazon.com/Longer-Talking-White-People-About-ebook/dp/B06WWPX2YF">__Why I'm No Longer Talking To White People About Race__</a> by Reni Eddo-Lodge
-* <a href="https://www.akpress.org/freedom-is-a-constant-struggle.html">__Freedom Is A Constant Struggle__</a> by Angela Davis
-* <a href="https://www.amazon.com/Your-Silence-Will-Not-Protect/dp/0995716226">__Your Silence Will Not Protect You__</a> by Audre Lorde
-* <a href="https://www.kieselaymon.com/heavy">__Heavy: An American Memoir__</a> by Kiese Laymon
-* <a href="https://justmercy.eji.org/responsive/#book">__Just Mercy__</a> by Bryan Stevenson
-* <a href="http://isabelwilkerson.com/">__The Warmth of Other Suns__</a> by Isabel Wilkerson
-* <a href="https://www.amazon.com/Color-Money-Black-Racial-Wealth/dp/0674970950">__The Color of Money__</a> by Mehrsa Baradaran
-* <a href="https://www.amazon.com/Other-Side-Freedom-Case-Hope/dp/0525560327">__On the Other Side of Freedom: The Case for Hope__</a> by DeRay McKesson
-* <a href="https://www.amazon.com/Black-Feminist-Thought-Consciousness-Empowerment/dp/0415964725">__Black Feminist Thought__</a> by Patricia Hill Collins
-* <a href="https://www.meandwhitesupremacybook.com/">__Me and White Supremacy__</a> by Layla F. Saad
-* <a href="https://www.amazon.com/Know-Why-Caged-Bird-Sings/dp/0345514408">__I Know Why The Caged Bird Sings__</a> by Maya Angelou
-* <a href="https://robindiangelo.com/publications/">__White Fragility: Why It's So Hard for White People to Talk About Racism__</a> by Robin DiAngelo, PhD
-* <a href="https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776">__So You Want to Talk About Race__</a> by Ijeoma Oluo
-* <a href="https://www.epi.org/publication/the-color-of-law-a-forgotten-history-of-how-our-government-segregated-america/">__The Color of Law__</a> by Richard Rothstein
+* <a href="https://ta-nehisicoates.com/books/between-the-world-and-me/">Between the World and Me</a> by T-Nehisi Coates
+* <a href="https://www.amazon.com/Fire-Next-Time-James-Baldwin/dp/067974472X">The Fire Next Time</a> by James Baldwin
+* <a href="https://www.amazon.com/Longer-Talking-White-People-About-ebook/dp/B06WWPX2YF">Why I'm No Longer Talking To White People About Race</a> by Reni Eddo-Lodge
+* <a href="https://www.akpress.org/freedom-is-a-constant-struggle.html">Freedom Is A Constant Struggle</a> by Angela Davis
+* <a href="https://www.amazon.com/Your-Silence-Will-Not-Protect/dp/0995716226">Your Silence Will Not Protect You</a> by Audre Lorde
+* <a href="https://www.kieselaymon.com/heavy">Heavy: An American Memoir</a> by Kiese Laymon
+* <a href="https://justmercy.eji.org/responsive/#book">Just Mercy</a> by Bryan Stevenson
+* <a href="http://isabelwilkerson.com/">The Warmth of Other Suns</a> by Isabel Wilkerson
+* <a href="https://www.amazon.com/Color-Money-Black-Racial-Wealth/dp/0674970950">The Color of Money</a> by Mehrsa Baradaran
+* <a href="https://www.amazon.com/Other-Side-Freedom-Case-Hope/dp/0525560327">On the Other Side of Freedom: The Case for Hope</a> by DeRay McKesson
+* <a href="https://www.amazon.com/Black-Feminist-Thought-Consciousness-Empowerment/dp/0415964725">Black Feminist Thought</a> by Patricia Hill Collins
+* <a href="https://www.meandwhitesupremacybook.com/">Me and White Supremacy</a> by Layla F. Saad
+* <a href="https://www.amazon.com/Know-Why-Caged-Bird-Sings/dp/0345514408">I Know Why The Caged Bird Sings</a> by Maya Angelou
+* <a href="https://robindiangelo.com/publications/">White Fragility: Why It's So Hard for White People to Talk About Racism</a> by Robin DiAngelo, PhD
+* <a href="https://www.amazon.com/You-Want-Talk-About-Race/dp/1580056776">So You Want to Talk About Race</a> by Ijeoma Oluo
+* <a href="https://www.epi.org/publication/the-color-of-law-a-forgotten-history-of-how-our-government-segregated-america/">The Color of Law</a> by Richard Rothstein
 
 #### Fiction
 
-* <a href="https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764">__The Invisible Man__</a> by Ralph Ellison
-* <a href="https://www.amazon.com/If-Beale-Street-Could-Talk/dp/0307275930">__If Beale Street Could Talk__</a> by James Baldwin
-* <a href="https://www.amazon.com/Bluest-Eye-Vintage-International/dp/0307278441">__The Bluest Eye__</a> by Toni Morrison
-* <a href="https://www.zoranealehurston.com/books/their-eyes-were-watching-god/">__Their Eyes Were Watching God__</a> by Zora Neale Hurston
-* <a href="https://www.chimamanda.com/book/americanah/">__Americanah__</a> by Chimamanda Ngozi Adichie
-* <a href="http://www.tayarijones.com/books/an-american-marriage/">__An American Marriage__</a> by Tayari Jones
-* <a href="https://www.amazon.com/Such-Fun-Age-Kiley-Reid/dp/052554190X">__Such A Fun Age__</a> by Kiley Reid
-* <a href="https://www.nationalbook.org/books/the-underground-railroad/">__The Underground Railroad: A Novel__</a> by Colson Whitehead
+* <a href="https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764">The Invisible Man</a> by Ralph Ellison
+* <a href="https://www.amazon.com/If-Beale-Street-Could-Talk/dp/0307275930">If Beale Street Could Talk</a> by James Baldwin
+* <a href="https://www.amazon.com/Bluest-Eye-Vintage-International/dp/0307278441">The Bluest Eye</a> by Toni Morrison
+* <a href="https://www.zoranealehurston.com/books/their-eyes-were-watching-god/">Their Eyes Were Watching God</a> by Zora Neale Hurston
+* <a href="https://www.chimamanda.com/book/americanah/">Americanah</a> by Chimamanda Ngozi Adichie
+* <a href="http://www.tayarijones.com/books/an-american-marriage/">An American Marriage</a> by Tayari Jones
+* <a href="https://www.amazon.com/Such-Fun-Age-Kiley-Reid/dp/052554190X">Such A Fun Age</a> by Kiley Reid
+* <a href="https://www.nationalbook.org/books/the-underground-railroad/">The Underground Railroad: A Novel</a> by Colson Whitehead
 
 #### Young Adults
 
-* <a href="https://angiethomas.com/the-hate-u-give">__The Hate U Give__</a> by Angie Thomas
-* <a href="https://www.getunderlined.com/books/534050/dear-martin-by-nic-stone/">__Dear Martin__</a> by Nic Stone
-* <a href="http://ibizoboi.net/books/black-enough">__Black Enough__</a> edited by Ibi Zoboi
-* <a href="https://www.lbyr.com/titles/jason-reynolds/stamped-racism-antiracism-and-you/9780316453707/">__Stamped: Racism, Antiracism, and You__</a> by Jason Reynolds and Ibram X. Kendi
+* <a href="https://angiethomas.com/the-hate-u-give">The Hate U Give</a> by Angie Thomas
+* <a href="https://www.getunderlined.com/books/534050/dear-martin-by-nic-stone/">Dear Martin</a> by Nic Stone
+* <a href="http://ibizoboi.net/books/black-enough">Black Enough</a> edited by Ibi Zoboi
+* <a href="https://www.lbyr.com/titles/jason-reynolds/stamped-racism-antiracism-and-you/9780316453707/">Stamped: Racism, Antiracism, and You</a> by Jason Reynolds and Ibram X. Kendi
 
 ___
 
