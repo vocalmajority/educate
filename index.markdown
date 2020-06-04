@@ -37,6 +37,8 @@ ___
 * <a href="https://www.amazon.com/Your-Silence-Will-Not-Protect/dp/0995716226">Your Silence Will Not Protect You</a> by Audre Lorde
 * <a href="https://www.kieselaymon.com/heavy">Heavy: An American Memoir</a> by Kiese Laymon
 * <a href="https://justmercy.eji.org/responsive/#book">Just Mercy</a> by Bryan Stevenson
+* <a href="https://www.amazon.com/Narrative-Life-Frederick-Douglass/dp/0486284999?SubscriptionId=1RN7ZZ7D7SDQHR7TRJG2&tag=shanesherman-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0486284999">Narrative of the Life of Frederick Douglass</a> by Frederick Douglass
+* <a href="https://www.amazon.com/Narrative-Frederick-Douglass-Original-Classic/dp/1722502266?SubscriptionId=1RN7ZZ7D7SDQHR7TRJG2&tag=shanesherman-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1722502266">Narrative of the Life of Frederick Douglass (Original Classic Edition)</a> by Frederick Douglass
 * <a href="http://isabelwilkerson.com/">The Warmth of Other Suns</a> by Isabel Wilkerson
 * <a href="https://www.amazon.com/Color-Money-Black-Racial-Wealth/dp/0674970950">The Color of Money</a> by Mehrsa Baradaran
 * <a href="https://www.amazon.com/Other-Side-Freedom-Case-Hope/dp/0525560327">On the Other Side of Freedom: The Case for Hope</a> by DeRay McKesson
@@ -57,6 +59,7 @@ ___
 * <a href="http://www.tayarijones.com/books/an-american-marriage/">An American Marriage</a> by Tayari Jones
 * <a href="https://www.amazon.com/Such-Fun-Age-Kiley-Reid/dp/052554190X">Such A Fun Age</a> by Kiley Reid
 * <a href="https://www.nationalbook.org/books/the-underground-railroad/">The Underground Railroad: A Novel</a> by Colson Whitehead
+* <a href="https://www.amazon.com/Such-Fun-Age-Kiley-Reid/dp/052554190X">To Kill A Mockingbird</a> by Kiley Reid
 
 #### Young Adults
 
