@@ -27,6 +27,8 @@ ___
 
 ## Read
 
+Here is an <a href="https://leanin.org/article/anti-racism-resources">anti-racism library curated by LeanIn.org</a>. The library includes books and resources tailored to Black women; for white and non-Black people of color; and podcasts, advice for talking to kids, and organizations to support for all.  
+
 #### Non-Fiction
 
 * <a href="https://ta-nehisicoates.com/books/between-the-world-and-me/">Between the World and Me</a> by T-Nehisi Coates
