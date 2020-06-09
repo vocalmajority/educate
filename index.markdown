@@ -94,7 +94,8 @@ ___
 
 ### YouTube
 
-* Stay Woke: The Black Lives Matter Movement
+* <a href="https://www.youtube.com/watch?v=eIoYtKOqxeU">Stay Woke: The Black Lives Matter Movement</a>
+* <a href="https://youtu.be/bUC_PSyy7G8">The Appeal's Josie Duffy Rice and social movement lawyer Derecka Purnell</a> talk about policing in America. 
 
 #### To Rent
 
